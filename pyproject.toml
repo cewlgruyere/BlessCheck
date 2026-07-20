@@ -1,0 +1,16 @@
+[project]
+name = "CustomBlessCheck-example"
+version = "1.0.0"
+
+description = "bless check for bd blessings"
+
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+
+authors = [
+    { name = "cewlgruyere", email = "gruyere@remicrodex.com" },
+]
+readme = "README.md"
+
+dependencies = []
+
