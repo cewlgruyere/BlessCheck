@@ -3,8 +3,8 @@ from bd_blessings.blessings.cog import create_blessing
 import discord
 from bd_models.models import Player
 from asgiref.sync import sync_to_async
-from datetime import timezone, timedelta
-
+from datetime import timedelta
+from django.utils import timezone
 
 async def bless_check(interaction: discord.Interaction):
 
